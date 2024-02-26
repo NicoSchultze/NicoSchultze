@@ -17,11 +17,11 @@ I studied last year in Tokyo for a one-year exchange and got to grow not just ac
 Furthermore, my Job Experience is with the Mercedes-Benz Group, where I worked in the development process of the new electrical S-Class for Mercedes. 🚗 
 It was generally about leveraging an acoustic AI in the production of specific components of that car! I worked with CNNs and also got a deep look at a use case of AI within one of the most successful car companies in Germany! 
 
-Also, the concrete projects I am working on right now are: 
+Also, **the concrete projects I am working on right now are:** 
 1. Creating a facial recognition security system which runs on a Raspberry Pi, that is equipped with a camera to observe the entrance area of the house of my parents. I might add a web interface with Flask/Django. Tech stack will consist of Python, PyTorch, Git etc.
 2. Browser-Based Multiplayer Game with JS, Node, Express and PostgreSQL.
 3. Full Data Pipeline Project. Collect, process, analyse and visualize data. Possible tech stack is PySpark, SQL, Docker, Git, Tableau. You can contact me in German, English and Japanese if you have any questions.
 
 * 🌍  I'm based in Berlin but my heart belongs to Tokyo! :tokyo_tower:
 * 🖥️  See my portfolio at [https://nico-schultze.com/](http://nico-schultze.com/)
-* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in German, English and Japanese!
+* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in **German, English and Japanese!**

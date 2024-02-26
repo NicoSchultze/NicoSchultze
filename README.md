@@ -8,6 +8,7 @@ My name is Nico, and I am currently deep diving into Software Engineering. It is
 - Data Science and Data Engineering
 - Web-Based Development
 - Game-Development
+
 There are other fields I am highly interested in, but there is only so much time in a day 😄
 
 I have finished my Bachelor in Computer Science and Business with a GPA of 4.0 in the year 2022 and started my Master in Applied Computer Science right after. 
@@ -23,4 +24,4 @@ Also, the concrete projects I am working on right now are:
 
 * 🌍  I'm based in Berlin but my heart belongs to Tokyo! :tokyo_tower:
 * 🖥️  See my portfolio at [https://nico-schultze.com/](http://nico-schultze.com/)
-* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in German, English:england: and Japanese :jp: !
+* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in German, English and Japanese!

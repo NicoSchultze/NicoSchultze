@@ -23,4 +23,4 @@ Also, the concrete projects I am working on right now are:
 
 * 🌍  I'm based in Berlin but my heart belongs to Tokyo! :tokyo_tower:
 * 🖥️  See my portfolio at [https://nico-schultze.com/](http://nico-schultze.com/)
-* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in German, English:england: and Japanese:jp:!
+* ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in German, English:england: and Japanese :jp: !

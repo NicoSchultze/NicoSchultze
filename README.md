@@ -20,7 +20,9 @@ It was generally about leveraging an acoustic AI in the production of specific c
 Also, **the concrete projects I am working on right now are:** 
 1. Creating a facial recognition security system which runs on a Raspberry Pi, that is equipped with a camera to observe the entrance area of the house of my parents. I might add a web interface with Flask/Django. Tech stack will consist of Python, PyTorch, Git etc.
 2. Browser-Based Multiplayer Game with JS, Node, Express and PostgreSQL.
-3. Full Data Pipeline Project. Collect, process, analyse and visualize data. Possible tech stack is PySpark, SQL, Docker, Git, Tableau. You can contact me in German, English and Japanese if you have any questions.
+3. Full Data Pipeline Project. Collect, process, analyse and visualize data. Possible tech stack is PySpark, SQL, Docker, Git, Tableau.
+
+You can contact me in German, English and Japanese if you have any questions.
 
 * 🌍  I'm based in Berlin but my heart belongs to Tokyo! :tokyo_tower:
 * 🖥️  See my portfolio at [https://nico-schultze.com/](http://nico-schultze.com/)

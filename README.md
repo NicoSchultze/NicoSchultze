@@ -22,8 +22,6 @@ Also, **the concrete projects I am working on right now are:**
 2. Browser-Based Multiplayer Game with JS, Node, Express and PostgreSQL.
 3. Full Data Pipeline Project. Collect, process, analyse and visualize data. Possible tech stack is PySpark, SQL, Docker, Git, Tableau.
 
-You can contact me in German, English and Japanese if you have any questions.
-
 * 🌍  I'm based in Berlin but my heart belongs to Tokyo! :tokyo_tower:
 * 🖥️  See my portfolio at [https://nico-schultze.com/](http://nico-schultze.com/)
 * ✉️  You can contact me at [nico.schultze97@gmail.com](mailto:nico.schultze97@gmail.com) in **German, English and Japanese!**
